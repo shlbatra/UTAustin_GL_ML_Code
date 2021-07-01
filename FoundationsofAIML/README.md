@@ -1,5 +1,5 @@
 
-### The Session comprised of the following topics -
+### The Sessions comprised of the following topics -
 
 - Python Basic Commands
 - Python Advanced Commands
