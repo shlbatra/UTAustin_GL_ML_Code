@@ -1,2 +1,6 @@
-# GL_Mentor_DSCode
-Session Code reviewed during the Great Learning Mentoring Session for Cohort 8
+
+### The Sessions comprised of the following topics -
+
+- K Means Clustering
+- Hierarchical Clustering
+- Project exploring the different customer segments of a Bank based on their previous interactions with the bank
