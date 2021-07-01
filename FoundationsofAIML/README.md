@@ -1,2 +1,8 @@
 # GL_Mentor_DSCode
-Session Code reviewed during the Great Learning Mentoring Session for Cohort 8
+
+### The Session comprised of the following topics -
+
+- Python Basic Commands
+- Python Advanced Commands
+- Exploratory Data Analysis
+- Project exploring the PIMA Indian Diabetes Dataset
