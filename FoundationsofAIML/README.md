@@ -1,4 +1,3 @@
-# GL_Mentor_DSCode
 
 ### The Session comprised of the following topics -
 
